@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: page-turner
+Version: 0.1.dev0
+Summary: Fully Automatic Page Turning on Real Scores
+Author: Florian Henkel, Stephanie Schwaiger
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: MusicInformationRetrieval

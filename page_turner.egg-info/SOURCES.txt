@@ -1,0 +1,15 @@
+README.md
+setup.py
+page_turner/__init__.py
+page_turner/audio_stream.py
+page_turner/automatic_page_turner.py
+page_turner/camera.py
+page_turner/config.py
+page_turner/dialog.py
+page_turner/image_stream.py
+page_turner/prediction.py
+page_turner/utils.py
+page_turner.egg-info/PKG-INFO
+page_turner.egg-info/SOURCES.txt
+page_turner.egg-info/dependency_links.txt
+page_turner.egg-info/top_level.txt
